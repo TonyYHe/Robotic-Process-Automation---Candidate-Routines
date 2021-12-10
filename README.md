@@ -1,5 +1,5 @@
 # Robotic Process Automation---Candidate Routines 
-Implmentations of simple mechanisms for checking candidate routines in a given trace of executed activities\
+Implmentations of simple mechanisms for checking candidate routines in a given trace of executed activities using C\
 Project based on COMP10002 2020 Semester 2 Assignment 2
 
 ## Stage 0 - Reading and Analayzing Input Data
